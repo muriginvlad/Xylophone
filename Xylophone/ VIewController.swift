@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  Dicee
-//
-//  Created by Владислав on 25/06/2019.
-//  Copyright © 2019 Murygin Vladislav. All rights reserved.
-//
-
 import UIKit
 import AVFoundation
 
